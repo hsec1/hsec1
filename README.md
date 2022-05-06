@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hsec1
 - I am in the security industry
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - hsec1@protonmail.com
 <!---
 hsec1/hsec1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
